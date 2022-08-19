@@ -5,14 +5,13 @@ Experimental Brawl Stars v36.218 server emulator written in Python.
 ![ScreenShot]https://cdn.discordapp.com/attachments/1006967643598753823/1010214258446979204/Screenshot_2022-08-19-18-49-11-927_com.supercell.brawlstars.jpg) 
 
 ### Requirements:
-- Python 3.7 or higher
-- colorama
+- a brain...
 
 ### Running the server
 In a terminal, type `pip install -r requirements.txt` then run the server using `python main.py`
 
 ### Configuring the client app
-You need a custom client with debug menu, CB Team client wont work here. 
+You need a custom client, CB Team client wont work here. 
 
 ### What working here?
 - Clubs
