@@ -2,7 +2,7 @@
 
 Experimental Brawl Stars v36.218 server emulator written in Python.
 
-![ScreenShot]https://cdn.discordapp.com/attachments/1006967643598753823/1010214258446979204/Screenshot_2022-08-19-18-49-11-927_com.supercell.brawlstars.jpg) 
+!(text)[https://cdn.discordapp.com/attachments/1006967643598753823/1010214258446979204/Screenshot_2022-08-19-18-49-11-927_com.supercell.brawlstars.jpg]
 
 ### Requirements:
 - a brain...
